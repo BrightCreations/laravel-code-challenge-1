@@ -38,5 +38,6 @@ We would like you to develop some APIs as follows:
   * Use basic Laravel resource controllers with default methods – index, create, store etc.
   * Use Laravel’s validation function, using custom Request classes
   * Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page
+* Rewrite the above code using the Repository Pattern for the company and employee data access
 * Write a README.md file in the root of the project directly - this should include directions to setup your project
 
