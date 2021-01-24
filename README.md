@@ -1,4 +1,4 @@
-# Laravel Code Challange 1
+# Laravel Code Challenge 1
 
 ## Philosophy
 
